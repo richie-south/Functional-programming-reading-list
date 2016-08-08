@@ -1,6 +1,7 @@
 # Functional Programming Reading List
 *my list of good functional programming articles*
 
+- [JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/) 
 - [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.ly2aq5pgh)
 - [Introduction to Functional JavaScript](https://medium.com/functional-javascript/introduction-to-functional-javascript-45a9dca6c64a#.epuefbqy5)
 - [The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.9nmnke6ql)
